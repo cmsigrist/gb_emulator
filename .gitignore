@@ -1,0 +1,13 @@
+*.o
+*.gch
+/unit-test-bit
+/unit-test-alu
+/unit-test-component
+/unit-test-bus
+/unit-test-memory
+/unit-test-bit.c
+/unit-test-alu.c
+/unit-test-component.c
+/unit-test-bus.c
+/unit-test-memory.c
+.idea
